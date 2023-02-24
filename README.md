@@ -6,6 +6,7 @@
 - Warren Ngoun (wngoun@csumb.edu)
 - Jennah Yasin (jyasin@csumb.edu)
 - Luis Jimenez Barrios (ljimenezbarrios@csumb.edu) 
+
 Note: We all worked collaboratively with VS Code Live Share and only had one person commit the changes.
 
 ---
